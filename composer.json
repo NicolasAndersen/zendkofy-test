@@ -20,5 +20,13 @@
     "psr-4": {
       "Zendkofy\\Test\\": ""
     }
+  },
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Craftyclicks/Clicktoaddress"
+      ]
+    ]
   }
 }
