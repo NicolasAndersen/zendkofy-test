@@ -1,5 +1,5 @@
 {
-  "name": "zendkofy/zendkofy-test",
+  "name": "zendkofy/magento2-zendkofy-test",
   "description": "N/A",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0"
